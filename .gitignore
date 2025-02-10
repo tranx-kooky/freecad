@@ -1,4 +1,6 @@
 *.FCStd1
+*.FCBak
 *.stl
 *.dxf
 *.svg
+*.gcode
